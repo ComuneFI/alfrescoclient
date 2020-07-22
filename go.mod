@@ -1,4 +1,4 @@
-module github.com/publicocean0/alfrescoclient
+module github.com/ComuneFI/alfrescoclient
 
 go 1.14
 
